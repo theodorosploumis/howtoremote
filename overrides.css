@@ -1,0 +1,17 @@
+/* Custom styles for current presentation */
+
+.reveal table {
+  font-size: 1.5em;
+}
+
+.reveal table th,
+.reveal table td {
+  text-align: center;
+}
+
+.reveal h1.letter {
+  border: 8px solid #eee;
+  border-radius: 50%;
+  width: 165px;
+  margin: 0 auto 20px auto;
+}
