@@ -5,4 +5,4 @@ This is a presentation for the 1st Stamp Festival at 23/06/2015 with the SKGTech
 - SKGTech: http://skgtech.io
 - Live presentation: http://theodorosploumis.github.io/howtoremote
 
-Title: *Working from Home - The factors of success!*
+Title: **Working from Home - The factors of success!**
