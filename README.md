@@ -1,3 +1,8 @@
 # HowToRemote Presentation
-This is a presentation for the 1st Stamp Festival at 23/06/2015 (http://stampfestival.gr/skg-tech).
+This is a presentation for the 1st Stamp Festival at 23/06/2015 with the SKGTech team.
 
+- Stamp Festival: http://stampfestival.gr
+- SKGTech: http://skgtech.io
+- Live presentation: http://theodorosploumis.github.io/howtoremote
+
+Title: *Working from Home - The factors of success!*
