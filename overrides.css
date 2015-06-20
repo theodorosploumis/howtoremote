@@ -19,3 +19,10 @@
   width: 165px;
   margin: 0 auto 20px auto;
 }
+
+.reveal section img.clean {
+  margin: 15px 0px;
+  background: transparent;
+  border: 0;
+  box-shadow: none;
+}
